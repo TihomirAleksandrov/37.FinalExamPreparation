@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordReset", "PasswordRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcodes", "FancyBarcodes\FancyBarcodes.csproj", "{3F92AD34-8BA1-4D91-BEC7-745BFEBA66F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesOfCodeAndLogicVII", "HeroesOfCodeAndLogicVII\HeroesOfCodeAndLogicVII.csproj", "{441BDB6C-F1A5-417D-BB3D-E419C593EF27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{3F92AD34-8BA1-4D91-BEC7-745BFEBA66F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F92AD34-8BA1-4D91-BEC7-745BFEBA66F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F92AD34-8BA1-4D91-BEC7-745BFEBA66F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441BDB6C-F1A5-417D-BB3D-E419C593EF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441BDB6C-F1A5-417D-BB3D-E419C593EF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441BDB6C-F1A5-417D-BB3D-E419C593EF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441BDB6C-F1A5-417D-BB3D-E419C593EF27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
